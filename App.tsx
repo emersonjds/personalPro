@@ -3,7 +3,14 @@ import React from 'react';
 import { View } from 'react-native';
 
 const App: React.FC = () => {
-  return <View />;
+  return (
+    <>
+      <View className="h-1/4 bg-slate-500" />
+      <View className="h-1/4 bg-slate-300" />
+      <View className="h-1/4 bg-slate-100" />
+      <View className="h-1/4 bg-gray-900" />
+    </>
+  )
 }
 
 export default App;
