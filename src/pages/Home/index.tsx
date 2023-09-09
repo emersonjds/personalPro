@@ -1,12 +1,12 @@
 import React from 'react';
-import { View } from 'react-native';
+import { Text, View } from 'react-native';
 
 const Home: React.FC = () => {
   return (
     <>
       <View>
         <Text>
-          Home
+          H
         </Text>
       </View>
     </>
