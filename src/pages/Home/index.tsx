@@ -6,7 +6,7 @@ const Home: React.FC = () => {
     <>
       <View>
         <Text>
-          H
+          Home
         </Text>
       </View>
     </>
