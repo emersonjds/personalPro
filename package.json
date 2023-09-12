@@ -6,12 +6,13 @@
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "lint": "eslint .",
-    "start": "react-native start",
+    "start": "bun run react-native start",
     "test": "jest"
   },
   "dependencies": {
     "@react-native-async-storage/async-storage": "^1.19.1",
     "@react-native-community/netinfo": "^9.4.1",
+    "@reduxjs/toolkit": "^1.9.5",
     "nativewind": "^2.0.11",
     "react": "18.2.0",
     "react-native": "0.72.4"
