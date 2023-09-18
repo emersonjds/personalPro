@@ -4,7 +4,9 @@ import { Text, View } from 'react-native';
 const Home: React.FC = () => {
   return (
     <>
-      <View>
+      <View
+        className='flex-1 bg-black'
+      >
         <Text>
           Home App
         </Text>
