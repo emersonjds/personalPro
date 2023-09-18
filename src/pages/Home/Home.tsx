@@ -5,7 +5,7 @@ const Home: React.FC = () => {
   return (
     <>
       <View
-        className='flex-1 bg-black'
+        className='flex-1 bg-white'
       >
         <Text>
           Home App
