@@ -3,7 +3,7 @@ import { Text, View } from 'react-native';
 
 const Login: React.FC = () => {
   return (
-    <View />
+    <></>
   )
 }
 
