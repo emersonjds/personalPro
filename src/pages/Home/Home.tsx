@@ -6,7 +6,6 @@ const Home: React.FC = () => {
     <>
       <View className='flex-1 justify-center items-center bg-gray-200'>
         <Text>
-
         </Text>
       </View>
     </>
