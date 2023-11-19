@@ -6,7 +6,7 @@ const Login: React.FC = () => {
     <>
       <View>
         <Text>
-          Changes Login
+          Changes
         </Text>
       </View>
     </>
