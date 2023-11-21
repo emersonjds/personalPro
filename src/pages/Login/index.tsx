@@ -1,12 +1,12 @@
-import React from 'react';
+import React, { FC } from 'react';
 import { Text, View } from 'react-native';
 
-const Login: React.FC = () => {
+const Login: FC = () => {
   return (
     <>
       <View>
         <Text>
-          Changes
+          Changes Login
         </Text>
       </View>
     </>
