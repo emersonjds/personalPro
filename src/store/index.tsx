@@ -19,3 +19,5 @@ const store = configureStore({
 });
 
 export const {increment} = counterSlice.actions;
+
+export default store;
